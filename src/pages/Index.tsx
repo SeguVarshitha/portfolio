@@ -22,7 +22,7 @@ const experiences = [
     company: "NextGenCloud Club",
     role: "Lead - Tech Python Department",
     period: "June 2023 - June 2024",
-    description: "Developed responsive web applications using React.js, Node.js, and MongoDB. Collaborated with designers to implement UI/UX improvements and optimize performance."
+    description: "Lead a team of Python developers and coordinating their activities. Encouraged continuous learning and professional development among the team.Organized hackathons, coding competitions, and workshops."
   }
 ];
 
